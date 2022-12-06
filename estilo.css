@@ -4,21 +4,24 @@ body{
     
 }
 
-
-
-
+.Menu{
+list-style: none;
+padding: 0;
+background-color: black;
+width: 90;
+max-width: 1000px;
+margin: auto;
+}
 h1{
     text-align: center;
     font-size: 38px;
     color:chartreuse;
 }
-
 h2{
     font-size: 26px;
     color:cyan;
 
 }
-
 h3{
     font-size: 20px;
     color:blue;
@@ -28,7 +31,6 @@ h4{
     font-size: 20px;
     color:gold;
 }
-
 p{
     text-align: justify;
     font-size: 18px;
