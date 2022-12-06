@@ -1,11 +1,9 @@
-
 body{
-    background: url(../antonio0522.github.io/foto10.jpg)
+    background: url(../antonio0522.github.io/foto10.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
-       
+    background-attachment: fixed;       
 }
 
 .Menu{
