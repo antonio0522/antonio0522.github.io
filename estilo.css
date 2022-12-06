@@ -7,7 +7,7 @@ body{
 .Menu{
 list-style: none;
 padding: 0;
-background: #092327;
+background:blueviolet;
 width: 90%;
 max-width: 1000px;
 margin: auto;
@@ -15,7 +15,7 @@ margin: auto;
 
 .Menu li a{
     text-decoration: none;
-    color: white;
+    color:black;
     padding: 20px;
     display: block;
 }
@@ -26,7 +26,7 @@ margin: auto;
 }
 
 .Menu li a:hover{
-    background: #ef8354;
+    background:brown;
 } 
 
 h1{
