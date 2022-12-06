@@ -13,12 +13,22 @@ max-width: 1000px;
 margin: auto;
 }
 
-.Menu li a {
+.Menu li a{
     text-decoration: none;
     color: white;
     padding: 20px;
     display: block;
 }
+
+.Menu li{
+    display: inline-block;
+    text-align: center;
+}
+
+.Menu li a:hover{
+    background-color: brown;
+
+} 
 h1{
     text-align: center;
     font-size: 38px;
