@@ -11,9 +11,8 @@ list-style: none;
 padding: 0;
 background:blueviolet;
 width: 90%;
-max-width: 1000px;
+max-width: 100px;
 margin: auto;
-text-align: center;
 }
 
 .Menu li a{
