@@ -25,6 +25,10 @@ margin: auto;
     text-align: center;
 }
 
+.Menu li a:hover{
+    background: brown;
+} 
+
 h1{
     text-align: center;
     font-size: 38px;
