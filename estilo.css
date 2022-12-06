@@ -15,6 +15,7 @@ margin: auto;
 
 .Menu li a{
     text-decoration: none;
+    text-align: center;
     color:black;
     padding: 20px;
     display: block;
