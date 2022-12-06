@@ -12,6 +12,13 @@ width: 90;
 max-width: 1000px;
 margin: auto;
 }
+
+.menu li a {
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
 h1{
     text-align: center;
     font-size: 38px;
